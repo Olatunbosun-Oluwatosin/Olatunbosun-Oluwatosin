@@ -4,9 +4,13 @@ I am a cloud DevOps Engineer passionate about cloud infrastructure and automatio
 software development lifecycle and deployment processes.
 
 🔭 I'm Currently working on projects that leverages on DevOps tools: Terraform, Kubernetes and AWS projects
+
 🌱 Learning: Azure DevOps
+
 👯 I’m looking to collaborate on projects within the sphere of Cloud computing and DevOps.
+
 💬 Ask me about: Infrastructure as Code, CI/CD
+
 ⚡ Fun fact: Music & Football
 
 
